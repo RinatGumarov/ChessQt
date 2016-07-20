@@ -1,4 +1,4 @@
-package com.kakoypackage.chess;
+package com.kakoypackage.chess.model.chessboard;
 
 import com.trolltech.qt.core.QPoint;
 import com.trolltech.qt.core.QRectF;

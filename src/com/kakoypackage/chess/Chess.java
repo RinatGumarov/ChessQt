@@ -1,5 +1,6 @@
 package com.kakoypackage.chess;
 
+import com.kakoypackage.chess.model.chessboard.Board;
 import com.trolltech.qt.core.QRectF;
 import com.trolltech.qt.gui.*;
 
